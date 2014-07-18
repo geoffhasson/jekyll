@@ -1,7 +1,7 @@
 # Site settings
 title: Geoff Hasson | Front-End Developer
 email: geoff@ghasson.com
-description: "This is my site, baby."
+description: "This is my site, baby!"
 baseurl: /jekyll
 url: "http://yourdomain.com"
 username: geoffhasson
